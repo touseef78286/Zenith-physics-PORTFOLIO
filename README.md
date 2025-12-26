@@ -4,7 +4,7 @@
   <h1>🌌 Zenith Physics Portfolio</h1>
   <p>A High-End Creative Portfolio merging Physics-Based UI with Modern Web Engineering</p>
 
-  <a href="https://vercel.com/touseef-panjtans-projects/zenith-physics-portfolio/3UvMFE9Wyn7DZoz4V3GUHXwkXd5x">
+  <a href="https://zenith-physics-portfolio-4ellm1rxn-touseef-panjtans-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
   <a href="https://github.com/touseef78286/Zenith-physics-PORTFOLIO">
