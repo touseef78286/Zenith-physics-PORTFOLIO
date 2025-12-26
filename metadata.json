@@ -1,0 +1,7 @@
+{
+  "name": "The Zenith Physics Portfolio",
+  "description": "An ultra-premium physics-driven portfolio for Touseef Panjtan (Orewa_Zenith) featuring gravitational interactions, elastic motion, and a draggable bento interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
